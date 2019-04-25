@@ -6,5 +6,5 @@
   + [code](https://github.com/LongguangWang/PASSRnet)
 ## 2018
 * ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
-  +[paper](https://arxiv.org/abs/1809.00219)
+  + [paper](https://arxiv.org/abs/1809.00219)
   
